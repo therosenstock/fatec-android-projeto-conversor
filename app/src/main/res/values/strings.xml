@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="title">Conversor de bits</string>
+    <string name="txtValor">Digite o valor de bits</string>
+    <string name="txtResultado"></string>
+    <string name="btnGerar">Gerar</string>
+</resources>
